@@ -14,7 +14,7 @@
 - 📫 How to reach me **https://x.com/339_Sora**
 <h3 align="left">Works:</h3>
 <table>
-<tr><td>**Name**<td>**About**<td>**Techs**<td>**Members**
+<tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
 <tr><td>Macray Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>Tech Type<td>技術に関する単語でタイピングゲーム<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
@@ -32,7 +32,7 @@ Shizuoka Prefectural Iwata Minami High School
 </table>
 <h3 align="left">Awards:</h3>
 <table>
-<tr><td>**Date**<td>**Event**<td>**Award**<td>**Work**
+<tr><td><b>Date</b><td><b>Event</b><td><b>Award</b><td><b>Work</b>
 <tr><td>2024.3.10<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>KOM-4i
 <tr><td>2024.3.25<td>X Hackathon<td>VP賞<td>Sakazuki LP
 <tr><td>2024.6.23<td>Progateハッカソン powered by AWS<td>優秀賞<td>Tech Type
