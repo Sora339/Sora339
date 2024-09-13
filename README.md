@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sora_339</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h1 align="center">Hi 👋, I'm Sora_339.</h1>
+<h3 align="center">A student frontend developer from Aoyama Gakuin Univ/Japan.</h3>
 
 - 🔭 I’m currently working for **AIM.**
 
-- 🌱 I’m currently learning **Frontend:["Next.js","TailwindCSS"],Database,Design**
+- 🌱 I’m currently learning **Frontend:["Next.js","TailwindCSS"],Database,Design**.
 
-- 👯 I’m collaborate on **puragu.**
+- 👯 I’m collaborate on **puragu** and **OptimusIntaractive**.
 
-- 👨‍💻 All of my projects are available at [https://nextsorablog.com/](https://nextsorablog.com/)
+- 👨‍💻 All of my projects are available at [https://nextsorablog.com/](https://nextsorablog.com/).
 
-- 📝 I regularly write articles on [https://nextsorablog.com/](https://nextsorablog.com/)
+- 📝 I regularly write articles on [https://nextsorablog.com/](https://nextsorablog.com/).
 
 - 📫 How to reach me **https://x.com/339_Sora**
 <h3 align="left">Works:</h3>
 <table>
-<tr><td>Name<td>About<td>Techs<td>Members
+<tr><td>**Name**<td>**About**<td>**Techs**<td>**Members**
 <tr><td>Macray Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>Tech Type<td>技術に関する単語でタイピングゲーム<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
@@ -32,7 +32,7 @@ Shizuoka Prefectural Iwata Minami High School
 </table>
 <h3 align="left">Awards:</h3>
 <table>
-<tr><td>Date<td>Event<td>Award<td>Work
+<tr><td>**Date**<td>**Event**<td>**Award**<td>**Work**
 <tr><td>2024.3.10<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>KOM-4i
 <tr><td>2024.3.25<td>X Hackathon<td>VP賞<td>Sakazuki LP
 <tr><td>2024.6.23<td>Progateハッカソン powered by AWS<td>優秀賞<td>Tech Type
