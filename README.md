@@ -12,7 +12,24 @@
 - 📝 I regularly write articles on [https://nextsorablog.com/](https://nextsorablog.com/)
 
 - 📫 How to reach me **https://x.com/339_Sora**
-
+<h3 align="left">Works:</h3>
+<table>
+<tr><td>作品名<td>概要<td>使用技術<td>開発規模
+<tr><td>Macray Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
+<tr><td>Tech Type<td>技術に関する単語でタイピングゲーム<td>Next.js,Supabase,AWS<td>チーム
+<tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
+<tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
+<tr><td>KOM-4i<td>AIで生成した4コママンガのSNS<td>Remix,Hono<td>チーム
+<tr><td>NextSoraBlog<td>microCMSを利用したブログサイト<td>Next.js,microCMS<td>個人
+<tr><td>ToryDory<td>日記×ToDoリストアプリ<td>Docker,FastAPI,Gemini<td>個人
+</table>
+<h3 align="left">Career:</h3>
+<table>
+<tr><td>2020.4～<td>
+Shizuoka Prefectural Iwata Minami High School
+<tr><td>2023.4～<td>Aoyama Gakuin University School of Social Informatics
+<tr><td>2024.4～<td>AIM Student Engineer
+</table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/339_Sora" target="blank"><img align="center" width="30" alt="logo-black" src="https://github.com/user-attachments/assets/77ec1b90-485d-4dd6-8318-ee2577a211b3" />
