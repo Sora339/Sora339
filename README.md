@@ -14,7 +14,7 @@
 - 📫 How to reach me **https://x.com/339_Sora**
 <h3 align="left">Works:</h3>
 <table>
-<tr><td>作品名<td>概要<td>使用技術<td>開発規模
+<tr><td>Name<td>About<td>Techs<td>Members
 <tr><td>Macray Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>Tech Type<td>技術に関する単語でタイピングゲーム<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
@@ -29,6 +29,15 @@
 Shizuoka Prefectural Iwata Minami High School
 <tr><td>2023.4～<td>Aoyama Gakuin University School of Social Informatics
 <tr><td>2024.4～<td>AIM Student Engineer
+</table>
+<h3 align="left">Awards:</h3>
+<table>
+<tr><td>Date<td>Event<td>Award<td>Work
+<tr><td>2024.3.10<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>KOM-4i
+<tr><td>2024.3.25<td>X Hackathon<td>VP賞<td>Sakazuki LP
+<tr><td>2024.6.23<td>Progateハッカソン powered by AWS<td>優秀賞<td>Tech Type
+<tr><td>2024.8.25<td>サポーターズ 技育キャンプハッカソン<td>優秀賞<td>Macray Rush
+<tr><td>2024.9.1<td>Progateハッカソン powered by Supabase<td>スタディスト賞<td>Tech Path
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
