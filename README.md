@@ -24,4 +24,4 @@
 
 <h3 align="left">Lang![Uploading logo-black.png…]()
 uages and Tools:</h3>
-<p align="left">[![My Skills](https://skillicons.dev/icons?i=react,next.js,tailwind,js,ts,py,firebase,supabase,postgres,mysql,fastapi,express,figma&theme=light)](https://skillicons.dev)</p>
+[![My Skills](https://skillicons.dev/icons?i=react,next.js,tailwind,js,ts,py,firebase,supabase,postgres,mysql,fastapi,express,figma&theme=light)](https://skillicons.dev)
