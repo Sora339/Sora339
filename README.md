@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/339_Sora" target="blank"><img height="30 width="40" alt="logo-black" src="https://github.com/user-attachments/assets/77ec1b90-485d-4dd6-8318-ee2577a211b3">
+<a href="https://x.com/339_Sora" target="blank"><img align="center" height="30" width="40" alt="logo-black" src="https://github.com/user-attachments/assets/77ec1b90-485d-4dd6-8318-ee2577a211b3" />
 </a>
   
 <a href="https://instagram.com/https://www.instagram.com/sorachi_339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sorachi_339/" height="30" width="40" /></a>
