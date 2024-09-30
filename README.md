@@ -15,7 +15,7 @@
 <h3 align="left">Works:</h3>
 <table>
 <tr><td><b>Name</b><td><b>About</b><td><b>Techs</b><td><b>Members</b>
-<tr><td>Macray Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
+<tr><td>Maclay Rush<td>新感覚書籍探索ゲーム<td>Next.js,Firebase<td>チーム
 <tr><td>Tech Type<td>技術に関する単語でタイピングゲーム<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
