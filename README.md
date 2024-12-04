@@ -27,8 +27,10 @@
 <table>
 <tr><td>2020.4～<td>
 Shizuoka Prefectural Iwata Minami High School
-<tr><td>2023.4～<td>Aoyama Gakuin University School of Social Informatics
-<tr><td>2024.4～<td>AIM Student Engineer
+<tr><td>2023.4<td>Aoyama Gakuin University School of Social Informatics
+<tr><td>2024.4<td>青山学院大学情報メディアセンター
+<tr><td>2024.8<td>基本情報技術者
+<tr><td>2024.11<td>CA Tech Lounge
 </table>
 <h3 align="left">Awards:</h3>
 <table>
