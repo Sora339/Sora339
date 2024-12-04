@@ -25,7 +25,7 @@
 </table>
 <h3 align="left">Career:</h3>
 <table>
-<tr><td>2020.4～<td>
+<tr><td>2020.4<td>
 Shizuoka Prefectural Iwata Minami High School
 <tr><td>2023.4<td>Aoyama Gakuin University School of Social Informatics
 <tr><td>2024.4<td>青山学院大学情報メディアセンター
