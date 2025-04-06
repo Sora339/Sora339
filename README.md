@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working for **AIM.**
 
-- 🌱 I’m currently learning **Frontend:["Next.js","TailwindCSS"],Database,Design**.
+- 🌱 I’m currently learning **Frontend,Backend,Database,Design**.
 
 - 👯 I’m collaborate on **puragu** and **OptimusIntaractive**.
 
@@ -31,6 +31,7 @@ Shizuoka Prefectural Iwata Minami High School
 <tr><td>2024.4<td>青山学院大学情報メディアセンター
 <tr><td>2024.8<td>基本情報技術者
 <tr><td>2024.11<td>CA Tech Lounge
+<tr><td>2025.4<td>MYJ lab
 </table>
 <h3 align="left">Awards:</h3>
 <table>
