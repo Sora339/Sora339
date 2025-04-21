@@ -43,6 +43,7 @@ Shizuoka Prefectural Iwata Minami High School
 <tr><td>2024.9.1<td>Progateハッカソン powered by Supabase<td>スタディスト賞<td>Tech Path
 <tr><td>2024.9.15<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>文化祭サイト
 <tr><td>2024.11.24<td>Intelligent Water Rocket Competition 2024<td>総合優勝<td>AIM&Commons
+<tr><td>2025.4.13<td>国際イノベーションコンテスト(iCAN'25)国内予選<td>優勝(世界大会代表)<td>Railocation
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
