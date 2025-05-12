@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sora_339.</h1>
-<h3 align="center">A student frontend developer from Aoyama Gakuin Univ/Japan.</h3>
-
-- 🔭 I’m currently working for **AIM.**
+<h3 align="center">A student Web developer from Aoyama Gakuin Univ/Japan.</h3>
 
 - 🌱 I’m currently learning **Frontend,Backend,Database,Design**.
-
-- 👯 I’m collaborate on **puragu** and **OptimusIntaractive**.
 
 - 👨‍💻 All of my projects are available at [https://nextsorablog.com/](https://nextsorablog.com/).
 
@@ -20,14 +16,14 @@
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
 <tr><td>KOM-4i<td>AIで生成した4コママンガのSNS<td>Remix,Hono<td>チーム
+<tr><td>Menbee<td>Googleカレンダーと連携する面接日程調整ツール<td>個人
 <tr><td>NextSoraBlog<td>microCMSを利用したブログサイト<td>Next.js,microCMS<td>個人
 <tr><td>ToryDory<td>日記×ToDoリストアプリ<td>Docker,FastAPI,Gemini<td>個人
 </table>
 <h3 align="left">Career:</h3>
 <table>
-<tr><td>2020.4<td>
-Shizuoka Prefectural Iwata Minami High School
-<tr><td>2023.4<td>Aoyama Gakuin University School of Social Informatics
+<tr><td>2020.4<td>静岡県立磐田南高等学校
+<tr><td>2023.4<td>青山学院大学社会情報学部
 <tr><td>2024.4<td>青山学院大学情報メディアセンター
 <tr><td>2024.8<td>基本情報技術者
 <tr><td>2024.11<td>CA Tech Lounge
