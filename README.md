@@ -16,7 +16,7 @@
 <tr><td>Tech Path<td>技術に関する学習パスSNS<td>Next.js,Supabase,AWS<td>チーム
 <tr><td>OptimusMyPage<td>マインクラフトの経済システムと連動するWebアプリ<td>Express,TailwindCSS<td>チーム
 <tr><td>KOM-4i<td>AIで生成した4コママンガのSNS<td>Remix,Hono<td>チーム
-<tr><td>Menbee<td>Googleカレンダーと連携する面接日程調整ツール<td>個人
+<tr><td>Menbee<td>Googleカレンダーと連携する面接日程調整ツール<td>Next.js,Supabase,Google Calendar<td>個人
 <tr><td>NextSoraBlog<td>microCMSを利用したブログサイト<td>Next.js,microCMS<td>個人
 <tr><td>ToryDory<td>日記×ToDoリストアプリ<td>Docker,FastAPI,Gemini<td>個人
 </table>
