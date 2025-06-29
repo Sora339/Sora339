@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Frontend,Backend,Database,Design**.
 
-- 👨‍💻 All of my projects are available at [https://nextsorablog.com/](https://soraport.netlify.app/).
+- 👨‍💻 All of my projects are available at [https://soraport.netlify.app/](https://soraport.netlify.app/).
 
-- 📝 I regularly write articles on [https://nextsorablog.com/](https://nextsorablog.com/).
+- 📝 I regularly write articles on [https://soraport.netlify.app/](https://soraport.netlify.app/).
 
 - 📫 How to reach me **https://x.com/339_Sora**
 <h3 align="left">Works:</h3>
