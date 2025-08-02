@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sora_339.</h1>
 <h3 align="center">A student Web developer from Aoyama Gakuin Univ/Japan.</h3>
 
-- 🌱 I’m currently learning **Frontend,Backend,Database,Design**.
+- 🌱 I’m currently learning **Web Frontend,Backend,AWS,Design**.
 
 - 👨‍💻 All of my projects are available at [https://soraport.netlify.app/](https://soraport.netlify.app/).
 
@@ -28,6 +28,13 @@
 <tr><td>2024.8<td>基本情報技術者
 <tr><td>2024.11<td>CA Tech Lounge
 <tr><td>2025.4<td>MYJ lab
+</table>
+Inturnship:
+<table>
+<tr><td>2025.3<td>YUMEMI inc.
+<tr><td>2025.3<td>CARTA HOLDINGS Inc.
+<tr><td>2025.7<td>Speee, Inc.
+<tr><td>2025.7-8<td>PKSHA Technology Inc.
 </table>
 <h3 align="left">Awards:</h3>
 <table>
