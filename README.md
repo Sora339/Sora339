@@ -51,9 +51,9 @@ Inturnship:
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/339_Sora" target="blank"><img align="center" width="30" alt="logo-black" src="https://github.com/user-attachments/assets/77ec1b90-485d-4dd6-8318-ee2577a211b3" />
+<a href="https://x.com/339_Sora" target="blank">
+  <img width="30" alt="logo-white" src="https://github.com/user-attachments/assets/a21768b3-6e02-40e2-a987-24c004bdebf9" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/sorachi_339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sorachi_339/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
