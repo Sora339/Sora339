@@ -35,6 +35,8 @@ Inturnship:
 <tr><td>2025.3<td>CARTA HOLDINGS Inc.
 <tr><td>2025.7<td>Speee, Inc.
 <tr><td>2025.7-8<td>PKSHA Technology Inc.
+<tr><td>2025.8<td>CARTA HOLDINGS Inc.
+<tr><td>2025.9<td>CyberAgent, Inc.
 </table>
 <h3 align="left">Awards:</h3>
 <table>
