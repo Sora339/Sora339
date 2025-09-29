@@ -29,7 +29,7 @@
 <tr><td>2024.11<td>CA Tech Lounge
 <tr><td>2025.4<td>MYJ lab
 </table>
-Inturnship:
+<h3 align="left">Inturnship:</h3>
 <table>
 <tr><td>2025.3<td>YUMEMI inc.
 <tr><td>2025.3<td>CARTA HOLDINGS Inc.
