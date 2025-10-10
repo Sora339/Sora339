@@ -60,7 +60,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,py,firebase,supabase,postgres,mysql,fastapi,express,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,py,go,supabase,postgres,mysql,fastapi,aws)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sora339&show_icons=true&locale=en&layout=compact" alt="sora339" /></p>
 
