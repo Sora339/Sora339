@@ -29,15 +29,7 @@
 <tr><td>2024.8<td>基本情報技術者
 <tr><td>2024.11<td>CA Tech Lounge
 <tr><td>2025.4<td>MYJ lab
-</table>
-<h3 align="left">Inturnship:</h3>
-<table>
-<tr><td>2025.3<td>YUMEMI inc.
-<tr><td>2025.3<td>CARTA HOLDINGS Inc.
-<tr><td>2025.7<td>Speee, Inc.
-<tr><td>2025.7-8<td>PKSHA Technology Inc.
-<tr><td>2025.8<td>CARTA HOLDINGS Inc.
-<tr><td>2025.9<td>CyberAgent, Inc.
+<tr><td>2027.4(予定)<td>株式会社サイバーエージェント
 </table>
 <h3 align="left">Awards:</h3>
 <table>
