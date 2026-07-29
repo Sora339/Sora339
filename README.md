@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sora_339.</h1>
 <h3 align="center">A student Web developer from Aoyama Gakuin Univ/Japan.</h3>
 
-- 🌱 I’m currently learning **Web Frontend,Backend,AWS,Design**.
+- 🌱 I’m currently learning **Web Frontend,Local LLM,Design System**.
 
 - 👨‍💻 All of my projects are available at [https://soraport.netlify.app/](https://soraport.netlify.app/).
 
@@ -26,8 +26,6 @@
 <tr><td>2020.4<td>静岡県立磐田南高等学校
 <tr><td>2023.4<td>青山学院大学社会情報学部
 <tr><td>2024.4<td>青山学院大学情報メディアセンター
-<tr><td>2024.8<td>基本情報技術者
-<tr><td>2024.11<td>CA Tech Lounge
 <tr><td>2025.4<td>MYJ lab
 <tr><td>2027.4(予定)<td>株式会社サイバーエージェント
 </table>
@@ -44,6 +42,7 @@
 <tr><td>2025.4.13<td>国際イノベーションコンテスト(iCAN'25)国内予選<td>優勝(世界大会代表)<td>Railocation
 <tr><td>2025.6.8<td>サポーターズ 技育キャンプハッカソン<td>努力賞<td>おじさんシューティング
 <tr><td>2025.10.21<td>2025 Hong Kong International Talents Festival(iCANX)<td>Second Prize(世界同率3位)<td>Railocation
+<tr><td>2026.3.16<td>青山学院大学 2025年度 学生表彰<td><a href="https://life.a01.aoyama.ac.jp/interview/2114">学生表彰</a><td>Railocation
 </table>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,8 +54,4 @@
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,py,go,supabase,postgres,mysql,fastapi,aws)](https://skillicons.dev)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sora339&show_icons=true&locale=en&layout=compact" alt="sora339" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sora339&show_icons=true&locale=en" alt="sora339" /></p>
 
