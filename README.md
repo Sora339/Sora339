@@ -27,7 +27,6 @@
 <tr><td>2023.4<td>青山学院大学社会情報学部
 <tr><td>2024.4<td>青山学院大学情報メディアセンター
 <tr><td>2025.4<td>MYJ lab
-<tr><td>2027.4(予定)<td>株式会社サイバーエージェント
 </table>
 <h3 align="left">Awards:</h3>
 <table>
